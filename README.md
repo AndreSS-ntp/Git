@@ -28,6 +28,9 @@ If u wanna change last commit u should use command
 **git commit --ammend -m "Updated comment of commit"** - with changing of commit comment
 **--ammend WORKS ONLY WITH HEAD COMMIT**
 
+    Команда git restore --staged <file> переведёт файл из staged обратно в modified или untracked.
+    Команда git reset --hard <commit hash> «откатит» историю до коммита с хешем <hash>. Более поздние коммиты потеряются!
+    Команда git restore <file> «откатит» изменения в файле до последней сохранённой (в коммите или в staging) версии.
 
 ----
 
