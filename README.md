@@ -17,6 +17,8 @@ How to use Git?
 
 Connection of key to GitHub u can check by command _ssh -T git@github.com_
 
+HEAD - ur last commit, u can use it as a hash of last commit
+
 ----
 
 Its bases of Git, bro. 
