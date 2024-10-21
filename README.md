@@ -19,6 +19,9 @@ Connection of key to GitHub u can check by command _ssh -T git@github.com_
 
 HEAD - ur last commit, u can use it as a hash of last commit
 
+**git log --oneline** - to view logs of ur commits in one line. 
+U should make commits with comments no longer than 72 symbols.
+
 ----
 
 Its bases of Git, bro. 
