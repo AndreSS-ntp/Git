@@ -22,6 +22,13 @@ HEAD - ur last commit, u can use it as a hash of last commit
 **git log --oneline** - to view logs of ur commits in one line. 
 U should make commits with comments no longer than 72 symbols.
 
+
+If u wanna change last commit u should use command
+**git commit --ammend --no-edit** - without changing of commit comment
+**git commit --ammend -m "Updated comment of commit"** - with changing of commit comment
+**--ammend WORKS ONLY WITH HEAD COMMIT**
+
+
 ----
 
 Its bases of Git, bro. 
